@@ -1,3 +1,6 @@
+My Project is visible on this url
+https://ostad-assignment.pranto.dev/
+
 1.  Create a folder on my server for project
 2.  Create a FTP account for access my sercer folder path
 3.  Add FTP credentials on Github Repository -> Setting -> Secrets and variables -> Actions
